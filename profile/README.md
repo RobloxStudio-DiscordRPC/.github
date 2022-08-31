@@ -1,12 +1,21 @@
-## Hi there 👋
+# Welcome
 
-<!--
+This organization represents a project that shows Discord rich presence for Roblox Studio.
 
-**Here are some ideas to get you started:**
+Rich presence is a discord feature that shows what you're currently doing in your profile card, which appears when you click someone's name or profile picture on Discord, for example:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<!-- profile card image here idiling -->
+
+<!-- editing script -->
+<!-- building -->
+<!-- gui -->
+
+# Installation
+
+You need to install an application and a Roblox Studio plugin for the service to work.
+
+1. Download, extract and run the [rich presence client](https://github.com/RobloxStudio-DiscordRPC/RPC-Client/releases)
+2. Download the [roblox studio plugin](https://github.com/RobloxStudio-DiscordRPC/Plugin/releases) and copy it to `%localappdata%\Roblox\Plugins\`
+3. Make sure you have Discord and Roblox Studio running. Roblox Studio doesn't need to be in a place
+4. Run the rich presence client
+5. Hopefully that's it!
