@@ -4,11 +4,13 @@ This organization represents a project that shows Discord rich presence for Robl
 
 Rich presence is a discord feature that shows what you're currently doing in your profile card, which appears when you click someone's name or profile picture on Discord, for example:
 
-<!-- profile card image here idiling -->
+![profile card](/profile/assets/profile_card.png)
 
-<!-- editing script -->
-<!-- building -->
-<!-- gui -->
+![scripting](/profile/assets/rpc_script.png)
+
+![building](/profile/assets/rpc_building.png)
+
+![gui](/profile/assets/rpc_gui.png)
 
 # Installation
 
